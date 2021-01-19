@@ -1,4 +1,4 @@
-# cd;
+# README-Gen;
   
   ## Table of Contents
   - [Description](#description)
@@ -10,24 +10,28 @@
   - [Questions](#questions)
   
   ## Description:
-  sd
+  it is a app that building a readme instantly
   
   ## Installation Instructions:
-  er
+  please put in node index.js to run and anwser the questions
   
   ## Usage:
-  ds
+  it is used to create a readme
   
   ## Contribution:
-  a
+  
   
   ## Testing:
-  s
+  
   
   ## License:
-  ![License](https://img.shields.io/static/v1?label=License&message=Apache&color=9cf)
+  ![License](https://img.shields.io/static/v1?label=License&message=None&color=9cf)
   
   ## Questions?
-  Linkedin undefined
-  GitHub: fd
-  Email: sd
+  Linkedin 
+  GitHub: bradleycampbell00
+  Email: bradleycampbell00@gmail.com
+
+
+  ## Gif
+  ![Gif](\gif\readme-gen.gif)
